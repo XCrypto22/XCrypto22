@@ -1,5 +1,5 @@
 - <h1>👋 Hello World </h1>
-- <h2>I’m Elton Fungirai -- Dev Elton </h2>
+- <h2>I’m Elton Fungirai</h2>
 - <h3>🌍 Zimbabwean</h3>
 - 👀 I’m a <b>Python Developer and a Frontend Web Developer</b>
 - 🌱 I’m currently learning <i>Advanced Python, Network Programming, Flutter Development</i>
