@@ -1,9 +1,10 @@
-- 👋 Hi, 
-- <h1> I’m Elton Fungirai -- Dev Elton </h1>
-- 👀 I’m interested in ... IoT systems, Machine Learning, Cyber Security and Web Development
-- 🌱 I’m currently learning ... Advanced Python, Network Programming, Flutter Development 
-- 💞️ I’m looking to collaborate on ...big unique Projects that can change the world
-- 📫 How to reach me ... eltonfungirai049@gmail.com  +++  www.twitter.com/snr_elton
+- <h1>👋 Hello World </h1>, 
+- <h2>I’m Elton Fungirai -- Dev Elton </h2>
+- 🌍 <h3 color='green'>Zimbabwean</h3>
+- 👀 I’m a <b>Python Developer and a Frontend Web Developer</b>
+- 🌱 I’m currently learning <i>Advanced Python, Network Programming, Flutter Development</i>
+- 💞️ I’m looking foward to collaborate on any Software development projects (Mobile / Desktop)
+- 📫 Contact ... eltonfungirai049@gmail.com  +++  www.twitter.com/snr_elton
 
 <!---
 XCrypto22/XCrypto22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
