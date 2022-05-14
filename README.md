@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Elton Fungirai -- Dev Elton
+- 👋 Hi, 
+- <h1> I’m Elton Fungirai -- Dev Elton </h1>
 - 👀 I’m interested in ... IoT systems, Machine Learning, Cyber Security and Web Development
 - 🌱 I’m currently learning ... Advanced Python, Network Programming, Flutter Development 
 - 💞️ I’m looking to collaborate on ...big unique Projects that can change the world
